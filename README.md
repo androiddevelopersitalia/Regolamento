@@ -1,6 +1,6 @@
-*This policy is a "living" document, and subject to refinement and expansion in the future.*
+Questo documento è in continuo aggiornamento e miglioramento
 
-## Code of Conduct
+## Regolamento Android Developers Community
 
 ### The **Android Study Group Slack** should be a safe place for everybody regardless of
 
