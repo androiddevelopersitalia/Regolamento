@@ -75,7 +75,7 @@ Per facilitare la consultazione, il confronto e la crescita della community abbi
 
 ### Lavoro e annunci
 
-** Per pubblicare una proposta lavorativo è obbligatorio usare il cane #lavoro rispettando alcune semplici indicazioni come:
+** Per pubblicare una proposta lavorativa è obbligatorio usare il canale #lavoro rispettando alcune semplici indicazioni:
 
 - NomeaAzienda o tipo di azienda
 - tipo di contratto
@@ -95,8 +95,8 @@ Qualsiasi annuncio di lavoro che non rispetta queste specifiche potrà essere ca
 
 * Giuseppe Sorce - @Giuseppe Sorce
 * Leonardo Pirro - @lpirro
-* Fabio Collini - @Fabio Collini 
-* Roberto Orgiu - @rob
-* Nicola Corti - @gammax
+* Fabio Collini  -  @Fabio Collini 
+* Roberto Orgiu  - @rob
+* Nicola Corti   - @gammax
 
 Oppure inviare una mail a reclami@androiddevs.it
