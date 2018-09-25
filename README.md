@@ -2,15 +2,12 @@ Questo documento è in continuo aggiornamento e miglioramento
 
 ## Regolamento Android Developers Community
 
-### The **Android Study Group Slack** should be a safe place for everybody regardless of
+### La community
 
-- gender, gender identity or gender expression 
-- sexual orientation
-- disability
-- physical appearance (including but not limited to body size)
-- race
-- age
-- religion
+Android Developers Italia (ADI) è una community di utenti con la passione per tutto ciò che riguarda lo sviluppo per la piattaforma Android. ADI è libera, gratuita e aperta a tutti: lo strumento scelto per la comunicazione tra i membri è la piattaforma Slack. 
+Il primo scopo di ADI è l’aiuto reciproco tra i membri nel rispetto delle regole presenti in questo regolamento e persegue la crescita umana e professionale dei suoi membri e la diffusione della conoscenza della piattaforma Android. 
+Gli utenti che accettano di registrarsi ed entrare nella community dichiarano in maniera implicita di rispettare questo regolamento.
+
 
 ### As someone who is part of this Slack, you agree that:
 
