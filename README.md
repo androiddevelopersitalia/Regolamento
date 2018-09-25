@@ -59,7 +59,8 @@ Per facilitare la consultazione, il confronto e la crescita della community abbi
 
 ** Generali
 - La lingua ufficiale della community è l’Italiano.
-- Cambia l’avatar e non lasciare quello di default. In questo modo sarai più riconoscibile all’interno della community.
+- Cambia l’avatar e non lasciare quello di default e usa un nome non troppo generico. In questo modo sarai più riconoscibile 
+  all’interno della community.
 
 ** Prima di postare
 
