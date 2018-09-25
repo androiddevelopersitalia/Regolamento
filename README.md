@@ -9,49 +9,63 @@ Il primo scopo di ADI è l’aiuto reciproco tra i membri nel rispetto delle reg
 Gli utenti che accettano di registrarsi ed entrare nella community dichiarano in maniera implicita di rispettare questo regolamento.
 
 
-### As someone who is part of this Slack, you agree that:
+### Codice di condotta
 
-* We are collectively and individually committed to safety and inclusivity.
-* We have zero tolerance for abuse, harassment, or discrimination.
-* We respect people’s boundaries and identities.
-* We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
-* We avoid using offensive topics as a form of humor.
+Android Developers Italia  rispetta tutti i suoi utenti e fa rispettare tra loro gli utenti senza discriminazione: 
 
-### We actively work towards:
+- genere,sesso, orientamento sessuale 
+- disabilità
+- aspetto fisico
+- razzismo
+- opinioni
+- età
+- religione
+- nazionalità
+- colore della pelle
 
-* Being a safe community
-* Cultivating a network of support & encouragement for each other
-* Encouraging responsible and varied forms of expression
+ADI informa che nel rispetto dei diritti della persona, non tollera i seguenti punti e si impegna a farli rispettare usando gli strumenti messi a disposizione della piattaforma slack:
 
-### We condemn:
+- abusi, molestie, minacce o discriminazione.
+- linguaggio che possa essere considerato oppressivo, sistematicamente o eccezionalmente (ad esempio sessista, razzista, 
+   omofobo, ecc.)
+   
+Nello specifico la community correggerà, nei limiti della piattaforma Slack, comportamenti quali:
 
-* Stalking, doxxing, or publishing private information
-* Threats of harm, harassment
-* Anything that compromises people’s safety
-* Personal attacks
+- Stalking, doxing o la pubblicazione di informazioni private, personali o che riguardino in qualunque modo la sfera di un 
+  singolo o un gruppo di individui
+- Minacce, molestie o soprusi di sorta
+- Tutto ciò che compromette la sicurezza delle persone
 
-**These things are NOT OK.**
+### Privacy:
 
-### If you say something that is found offensive, and you are called out on it, let’s:
+* Tutte le conversazioni in questo gruppo Slack sono private (se non specificato esplicitamente) e in generale valgono le   
+  regole della piattaforma Slack, regole elencate e accettate durante la fase di registrazione.
 
-* Listen without interruption.
-* Believe what the person is saying & do not attempt to disqualify what they have to say.
-* Ask for tips / help with avoiding making the offense in the future.
-* Apologize and ask forgiveness.
+* Per le discussioni private rese pubbliche, anche in parte, è necessario il consenso degli utenti coinvolti nelle 
+  discussioni. Gli admin vigileranno per far rispettare questa regola.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Gli utenti che non rispetteranno le regole elencate possono essere ripresi e a seconda della gravità della violazione:
 
-### Privacy
-* All conversations are private unless otherwise specified. 
-* If you wish to share a conversation, or part of one, you must get permission from each person involved.
+- i messaggi possono essere cancellati
+- account momentaneamente disattivato
+- account cancellato e bannato
+
+Ogni utente ha il dovere di  segnalare ogni violazione delle regole di condotta sia all’interno della community con un messaggio privato agli admin sia inviando un’email a *reclami@androiddevs.it*
+
 
 ### Best Practices
-* Stay on topic. The goal of the ASG Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
-* If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
-* Before asking any questions, please check if there's a channel for it before asking in #android-general
-* Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
+Per facilitare la consultazione, il confronto e la crescita della community abbiamo creato delle semplici linee guida da seguire:
+
+* Generali
+- La lingua ufficiale della community è l’Italiano.
+- Cambia l’avatar e non lasciare quello di default. In questo modo sarai più riconoscibile all’interno della community.
+
+* Prima di postare
+
+- Prima di fare una domanda e/o provare ad avviare una discussione accertati sempre di scriverla nel canale corretto. Leggi 
+  la descrizione del canale per essere sicuro che è attinente con la domanda/discussione che stai per fare.
+- Se la tua domanda non è attinente a nessuno dei canali, puoi postare in *#misc-general*.
 
 * Ben Lee - @bl
 * Chiu-Ki Chan - @chiuki
