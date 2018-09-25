@@ -57,12 +57,12 @@ Ogni utente ha il dovere di  segnalare ogni violazione delle regole di condotta 
 
 Per facilitare la consultazione, il confronto e la crescita della community abbiamo creato delle semplici linee guida da seguire:
 
-## Generali
+#### Generali
 - La lingua ufficiale della community è l’Italiano.
 - Cambia l’avatar e non lasciare quello di default e usa un nome non troppo generico. In questo modo sarai più riconoscibile 
   all’interno della community.
 
-## Prima di postare
+#### Prima di postare
 
 - Prima di fare una domanda e/o provare ad avviare una discussione accertati sempre di scriverla nel canale corretto. Leggi 
   la descrizione del canale per essere sicuro che è attinente con la domanda/discussione che stai per fare.
